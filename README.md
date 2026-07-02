@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Maximilian 👋
+# Hey, I'm WoweePaw 👋
 ### Software Developer • Community Manager • Technical Problem Solver
 
 Building software that solves real problems.<br>
